@@ -1,0 +1,16 @@
+http://20.244.56.144/test/register
+{
+    "companyName": "goMart",
+    "ownerName": "Sateesh",
+    "rollNo": "21J41A0556",
+    "ownerEmail":"thakkellapatisateesh@gmail.com",
+    "accessCode": "DUKyet"
+}
+{
+    "companyName": "goMart",
+    "clientID": "37bb493c-73d3-47ea-8675-21f66ef9b735",
+    "clientSecret": "HVIQBVbqmTGEmaED",
+    "ownerName": "Sateesh",
+    "ownerEmail":"thakkellapatisateesh@gmail.com",
+    "rollNo": "21J41A0556",
+}

@@ -1,0 +1,14 @@
+http://20.244.56.144/test/auth
+{
+    "companyName": "goMart",
+    "clientID": "37bb493c-73d3-47ea-8675-21f66ef9b735",
+    "clientSecret": "XOyolORPasKWOdAN",
+    "ownerName": "Sateesh",
+    "ownerEmail":"thakkellapatisateesh@gmail.com",
+    "rollNo": "21J41A0556",
+}
+{
+    "token_type": "Bearer",
+    "access_token": "",
+    "expires_in": 1710835268
+}
